@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    background: linear-gradient(#6f8053 0%, #cfc99b 100%);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-shadow: 2px 2px #acc77d;
+}
+
+h2 {
+    text-shadow: 2px 2px #acc77d;
+}
+
+p {
+    padding: 20px;
+    text-align: center;
+    font-size: 18px;
+    text-shadow: 1px 1px #968f53;
+}
+
+img {
+    border-radius: 10%;
+    width: 50%;
+}
+
+.menu {
+    list-style: none;
+    font-family: fantasy;
+    position: fixed;
+    cursor: pointer;
+    top: 10px;
+    right: 50px;
+    z-index: 10
+}
+
+.link {
+    float: left;
+    font-family: fantasy;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: white;
+}
